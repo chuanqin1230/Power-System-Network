@@ -1,0 +1,35 @@
+object overhead_line_conductor {
+	name conductor1;
+	geometric_mean_radius 0.0244;
+	resistance 0.306;     		
+}
+
+object overhead_line_conductor {	
+	name conductor2;       		
+	geometric_mean_radius 0.0046;
+	resistance 1.12;
+}
+
+object overhead_line_conductor {	
+       name conductor3;
+       geometric_mean_radius 0.00814;	
+       resistance 0.592;     		
+}
+
+object overhead_line_conductor {	
+       name conductor4;
+       geometric_mean_radius 0.00446;	
+       resistance 1.12;	     	
+}
+
+object underground_line_conductor {	
+       name conductor5;
+       outer_diameter 1.06;	
+       conductor_gmr 0.0111;
+       conductor_diameter 0.93;
+       conductor_resistance 0.97;
+       neutral_gmr 0.00208; 
+       neutral_resistance 14.8722;
+       neutral_diameter 0.0641;	
+       neutral_strands 6;
+}

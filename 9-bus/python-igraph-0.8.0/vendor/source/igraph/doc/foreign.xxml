@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" 
+               "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY igraph "igraph">
+]>
+
+<chapter id="igraph-Foreign">
+<title>Reading and Writing Graphs from and to Files</title>
+
+<!-- doxrox-include about_loadsave -->
+
+<section><title>Simple edge list and similar formats</title>
+<!-- doxrox-include igraph_read_graph_edgelist -->
+<!-- doxrox-include igraph_write_graph_edgelist -->
+<!-- doxrox-include igraph_read_graph_ncol -->
+<!-- doxrox-include igraph_write_graph_ncol -->
+<!-- doxrox-include igraph_read_graph_lgl -->
+<!-- doxrox-include igraph_write_graph_lgl -->
+<!-- doxrox-include igraph_read_graph_dimacs -->
+<!-- doxrox-include igraph_write_graph_dimacs -->
+</section>
+
+<section><title>Binary formats</title>
+<!-- doxrox-include igraph_read_graph_graphdb -->
+</section>
+
+<section><title>GraphML format</title>
+<!-- doxrox-include igraph_read_graph_graphml -->
+<!-- doxrox-include igraph_write_graph_graphml -->
+</section>
+
+<section><title>GML format</title>
+<!-- doxrox-include igraph_read_graph_gml -->
+<!-- doxrox-include igraph_write_graph_gml -->
+</section>
+
+<section><title>Pajek format</title>
+<!-- doxrox-include igraph_read_graph_pajek -->
+<!-- doxrox-include igraph_write_graph_pajek -->
+</section>
+
+<section><title>UCINET's DL file format</title>
+<!-- doxrox-include igraph_read_graph_dl -->
+</section>
+
+<section><title>Graphviz format</title>
+<!-- doxrox-include igraph_write_graph_dot -->
+</section>
+
+</chapter>

@@ -1,0 +1,1070 @@
+object overhead_line {
+       name line001002;
+       phases "BN";
+       from node001;
+       to node002;
+       length 175;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line001003;
+       phases "CN";
+       from node001;
+       to node003;
+       length 250;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line001007;
+       phases "ABCN";
+       from node001;
+       to node007;
+       length 300;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line003004;
+       phases "CN";
+       from node003;
+       to node004;
+       length 200;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line003005;
+       phases "CN";
+       from node003;
+       to node005;
+       length 325;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line005006;
+       phases "CN";
+       from node005;
+       to node006;
+       length 250;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line007008;
+       phases "ABCN";
+       from node007;
+       to node008;
+       length 200;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line008012;
+       phases "BN";
+       from node008;
+       to node012;
+       length 225;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line008009;
+       phases "AN";
+       from node008;
+       to node009;
+       length 225;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line008013;
+       phases "ABCN";
+       from node008;
+       to node013;
+       length 300;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line013034;
+       phases "CN";
+       from node013;
+       to node034;
+       length 150;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line013018;
+       phases "ABCN";
+       from node013;
+       to node018;
+       length 825;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line014011;
+       phases "AN";
+       from node014;
+       to node011;
+       length 250;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line014010;
+       phases "AN";
+       from node014;
+       to node010;
+       length 250;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line015016;
+       phases "CN";
+       from node015;
+       to node016;
+       length 375;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line015017;
+       phases "CN";
+       from node015;
+       to node017;
+       length 350;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line018019;
+       phases "AN";
+       from node018;
+       to node019;
+       length 250;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line018021;
+       phases "ABCN";
+       from node018;
+       to node021;
+       length 300;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line019020;
+       phases "AN";
+       from node019;
+       to node020;
+       length 325;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line021022;
+       phases "BN";
+       from node021;
+       to node022;
+       length 525;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line021023;
+       phases "ABCN";
+       from node021;
+       to node023;
+       length 250;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line023024;
+       phases "CN";
+       from node023;
+       to node024;
+       length 550;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line023025;
+       phases "ABCN";
+       from node023;
+       to node025;
+       length 275;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line025028;
+       phases "ABCN";
+       from node025;
+       to node028;
+       length 200;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line026027;
+       phases "ACN";
+       from node026;
+       to node027;
+       length 275;
+       configuration lineconfiguration7;
+}
+
+object overhead_line {
+       name line026031;
+       phases "CN";
+       from node026;
+       to node031;
+       length 225;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line027033;
+       phases "AN";
+       from node027;
+       to node033;
+       length 500;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {	
+       name line028029;
+       phases "ABCN";
+       from node028;
+       to node029;
+       length 300;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {	
+       name line029030;
+       phases "ABCN";
+       from node029;
+       to node030;
+       length 350;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line030250;
+       phases "ABCN";
+       from node030;
+       to node250;
+       length 200;
+       configuration lineconfiguration2;
+}
+
+object overhead_line {
+       name line031032;
+       phases "CN";
+       from node031;
+       to node032;
+       length 300;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line034015;
+       phases "CN";
+       from node034;
+       to node015;
+       length 100;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line035036;
+       phases "ABN";
+       from node035;
+       to node036;
+       length 650;
+       configuration lineconfiguration8;
+}
+
+object overhead_line {
+       name line035040;
+       phases "ABCN";
+       from node035;
+       to node040;
+       length 250;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {	
+       name line036037;
+       phases "AN";
+       from node036;
+       to node037;
+       length 300;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {	
+       name line036038;
+       phases "BN";
+       from node036;
+       to node038;
+       length 250;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line038039;
+       phases "BN";
+       from node038;
+       to node039;
+       length 325;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {	
+       name line040041;
+       phases "CN";
+       from node040;
+       to node041;
+       length 325;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line040042;
+       phases "ABCN";
+       from node040;
+       to node042;
+       length 250;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line042043;
+       phases "BN";
+       from node042;
+       to node043;
+       length 500;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {	
+       name line042044;
+       phases "ABCN";
+       from node042;
+       to node044;
+       length 200;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {	
+       name line044045;
+       phases "AN";
+       from node044;
+       to node045;
+       length 200;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line044047;
+       phases "ABCN";
+       from node044;
+       to node047;
+       length 250;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line045046;
+       phases "AN";
+       from node045;
+       to node046;
+       length 300;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line047048;
+       phases "ABCN";
+       from node047;
+       to node048;
+       length 150;
+       configuration lineconfiguration4;
+}
+
+object overhead_line {
+       name line047049;
+       phases "ABCN";
+       from node047;
+       to node049;
+       length 250;
+       configuration lineconfiguration4;
+}
+
+object overhead_line {	
+       name line049050;
+       phases "ABCN";
+       from node049;
+       to node050;
+       length 250;
+       configuration lineconfiguration4;
+}
+
+object overhead_line {	
+       name line050051;
+       phases "ABCN";
+       from node050;
+       to node051;
+       length 250;
+       configuration lineconfiguration4;
+}
+
+object overhead_line {	
+       name line051151;
+       phases "ABCN";
+       from node051;
+       to node151;
+       length 500;
+       configuration lineconfiguration4;
+}
+
+object overhead_line {
+       name line052053;
+       phases "ABCN";
+       from node052;
+       to node053;
+       length 200;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line053054;
+       phases "ABCN";
+       from node053;
+       to node054;
+       length 125;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line054055;
+       phases "ABCN";
+       from node054;
+       to node055;
+       length 275;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {	
+       name line054057;
+       phases "ABCN";
+       from node054;
+       to node057;
+       length 350;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line055056;
+       phases "ABCN";
+       from node055;
+       to node056;
+       length 275;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line057058;
+       phases "BN";
+       from node057;
+       to node058;
+       length 250;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line057060;
+       phases "ABCN";
+       from node057;
+       to node060;
+       length 750;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line058059;
+       phases "BN";
+       from node058;
+       to node059;
+       length 250;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line060061;
+       phases "ABCN";
+       from node060;
+       to node061;
+       length 550;
+       configuration lineconfiguration5;
+}
+
+object underground_line {
+       name line060062;
+       phases "ABC";
+       from node060;
+       to node062;
+       length 250;
+       configuration lineconfiguration12;
+}
+
+object underground_line {
+       name line062063;
+       phases "ABC";
+       from node062;
+       to node063;
+       length 175;
+       configuration lineconfiguration12;
+}
+
+object underground_line {	
+       name line063064;
+       phases "ABC";
+       from node063;
+       to node064;
+       length 350;
+       configuration lineconfiguration12;
+}
+
+object underground_line {
+       name line064065;
+       phases "ABC";
+       from node064;
+       to node065;
+       length 425;
+       configuration lineconfiguration12;
+}
+
+object underground_line {
+       name line065066;
+       phases "ABC";
+       from node065;
+       to node066;
+       length 325;
+       configuration lineconfiguration12;
+}
+
+object overhead_line {
+       name line067068;
+       phases "AN";
+       from node067;
+       to node068;
+       length 200;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line067072;
+       phases "ABCN";
+       from node067;
+       to node072;
+       length 275;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line067097;
+       phases "ABCN";
+       from node067;
+       to node097;
+       length 250;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line068069;
+       phases "AN";
+       from node068;
+       to node069;
+       length 275;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line069070;
+       phases "AN";
+       from node069;
+       to node070;
+       length 325;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line070071;
+       phases "AN";
+       from node070;
+       to node071;
+       length 275;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line072073;
+       phases "CN";
+       from node072;
+       to node073;
+       length 275;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line072076;
+       phases "ABCN";
+       from node072;
+       to node076;
+       length 200;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line073074;
+       phases "CN";
+       from node073;
+       to node074;
+       length 350;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line074075;
+       phases "CN";
+       from node074;
+       to node075;
+       length 400;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line076077;
+       phases "ABCN";
+       from node076;
+       to node077;
+       length 400;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line078086;
+       phases "ABCN";
+       from node078;
+       to node086;
+       length 700;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line077078;
+       phases "ABCN";
+       from node077;
+       to node078;
+       length 100;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line078079;
+       phases "ABCN";
+       from node078;
+       to node079;
+       length 225;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line078080;
+       phases "ABCN";
+       from node078;
+       to node080;
+       length 475;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line080081;
+       phases "ABCN";
+       from node080;
+       to node081;
+       length 475;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line081082;
+       phases "ABCN";
+       from node081;
+       to node082;
+       length 250;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line081084;
+       phases "CN";
+       from node081;
+       to node084;
+       length 675;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line082083;	
+       phases "ABCN";
+       from node082;
+       to node083;
+       length 250;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line084085;
+       phases "CN";
+       from node084;
+       to node085;
+       length 475;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line086087;
+       phases "ABCN";
+       from node086;
+       to node087;
+       length 450;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line087088;
+       phases "AN";
+       from node087;
+       to node088;
+       length 175;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line087089;
+       phases "ABCN";
+       from node087;
+       to node089;
+       length 275;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line089090;
+       phases "BN";
+       from node089;
+       to node090;
+       length 225;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line089091;
+       phases "ABCN";
+       from node089;
+       to node091;
+       length 225;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line091092;
+       phases "CN";
+       from node091;
+       to node092;
+       length 300;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line091093;
+       phases "ABCN";
+       from node091;
+       to node093;
+       length 225;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line093094;
+       phases "AN";
+       from node093;
+       to node094;
+       length 275;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line093095;
+       phases "ABCN";
+       from node093;
+       to node095;
+       length 300;
+       configuration lineconfiguration6;
+}
+
+object overhead_line {
+       name line095096;
+       phases "BN";
+       from node095;
+       to node096;
+       length 200;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line097098;
+       phases "ABCN";
+       from node097;
+       to node098;
+       length 275;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line098099;
+       phases "ABCN";
+       from node098;
+       to node099;
+       length 550;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line099100;
+       phases "ABCN";
+       from node099;
+       to node100;
+       length 300;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line100450;
+       phases "ABCN";
+       from node100;
+       to node450;
+       length 800;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line101102;
+       phases "CN";
+       from node101;
+       to node102;
+       length 225;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line101105;
+       phases "ABCN";
+       from node101;
+       to node105;
+       length 275;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line102103;
+       phases "CN";
+       from node102;
+       to node103;
+       length 325;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line103104;
+       phases "CN";
+       from node103;
+       to node104;
+       length 700;
+       configuration lineconfiguration11;
+}
+
+object overhead_line {
+       name line105106;
+       phases "BN";
+       from node105;
+       to node106;
+       length 225;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line105108;
+       phases "ABCN";
+       from node105;
+       to node108;
+       length 325;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line106107;
+       phases "BN";
+       from node106;
+       to node107;
+       length 575;
+       configuration lineconfiguration10;
+}
+
+object overhead_line {
+       name line108109;
+       phases "AN";
+       from node108;
+       to node109;
+       length 450;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line108300;
+       phases "ABCN";
+       from node108;
+       to node300;
+       length 1000;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line109110;
+       phases "AN";
+       from node109;
+       to node110;
+       length 300;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line110111;
+       phases "AN";
+       from node110;
+       to node111;
+       length 575;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line110112;
+       phases "AN";
+       from node110;
+       to node112;
+       length 125;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line112113;
+       phases "AN";
+       from node112;
+       to node113;
+       length 525;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line113114;
+       phases "AN";
+       from node113;
+       to node114;
+       length 325;
+       configuration lineconfiguration9;
+}
+
+object overhead_line {
+       name line135035;
+       phases "ABCN";
+       from node135;
+       to node035;
+       length 375;
+       configuration lineconfiguration4;
+}
+
+object overhead_line {
+       name line149001;
+       phases "ABCN";
+       from node149;
+       to node001;
+       length 400;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line152052;
+       phases "ABCN";
+       from node152;
+       to node052;
+       length 400;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line197101;
+       phases "ABCN";
+       from node197;
+       to node101;
+       length 250;
+       configuration lineconfiguration3;
+}
+
+object overhead_line {
+       name line013152;
+       phases "ABCN";
+       from node013;
+       to node152;
+       length 50;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line018135;
+       phases "ABCN";
+       from node018;
+       to node135;
+       length 50;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line060160;
+       phases "ABCN";
+       from node060;
+       to node160;
+       length 50;
+       configuration lineconfiguration1;
+}
+
+object overhead_line {
+       name line097197;
+       phases "ABCN";
+       from node097;
+       to node197;
+       length 50;
+       configuration lineconfiguration1;
+}

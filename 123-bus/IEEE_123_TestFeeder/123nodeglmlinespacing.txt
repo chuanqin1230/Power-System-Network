@@ -1,0 +1,95 @@
+object line_spacing {
+	name linespacing1; 
+	distance_AB 2.5;
+	distance_BC 4.5;
+	distance_AC 7.0;
+	distance_AN 5.656854;
+	distance_BN 4.272002;
+	distance_CN 5.0;
+}
+
+object line_spacing {
+	name linespacing2; 
+	distance_AB 4.5;
+	distance_BC 7.0;
+	distance_AC 2.5;
+	distance_AN 4.272002;
+	distance_BN 5.0;
+	distance_CN 5.658654;
+}
+
+object line_spacing {
+	name linespacing3;
+	distance_AB 7.0;
+	distance_BC 2.5;
+	distance_AC 4.5;
+	distance_AN 5.0;
+	distance_BN 5.656854;
+	distance_CN 4.272002;
+}
+
+object line_spacing {
+	name linespacing4;
+	distance_AB 4.5;
+	distance_BC 2.5;
+	distance_AC 7.0;
+	distance_AN 5.0;
+	distance_BN 4.272002;
+	distance_CN 5.656854;
+}
+
+object line_spacing {
+	name linespacing5; 
+	distance_AB 2.5;
+	distance_BC 7.0;
+	distance_AC 4.5;
+	distance_AN 4.272002;
+	distance_BN 5.656854;
+	distance_CN 5.0;
+}
+
+object line_spacing {
+	name linespacing6; 
+	distance_AB 7.0;
+	distance_BC 4.5;
+	distance_AC 2.5;
+	distance_AN 5.656854;
+	distance_BN 5.0;
+	distance_CN 4.272002;
+}
+
+object line_spacing {
+	name linespacing7; 
+	distance_AC 7.0;
+	distance_AN 5.656854;
+	distance_CN 5.0;
+}
+
+object line_spacing {
+	name linespacing8; 
+	distance_AB 7.0;
+	distance_AN 5.656854;
+	distance_BN 5.0;
+}
+
+object line_spacing {
+	name linespacing9;
+	distance_AN 4.0311;
+}
+
+object line_spacing {
+	name linespacing10;
+	distance_BN 4.0311;
+}
+
+object line_spacing {
+	name linespacing11; 
+	distance_CN 4.0311;
+}
+
+object line_spacing {
+	name linespacing12;
+	distance_AB 0.5;
+	distance_BC 0.5;
+	distance_AC 1.0;
+}

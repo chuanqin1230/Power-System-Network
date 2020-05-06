@@ -1,0 +1,604 @@
+object load {
+       name node001;
+       phases "ABCN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node002;
+       phases "BN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node004;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node005;
+       phases "CN";
+       constant_current_C 4.808+2.404j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node006;
+       phases "CN";
+       constant_impedance_C 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node007;
+       phases "ABCN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node009;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node010;
+       phases "AN";
+       constant_current_A 4.808+2.404j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node011;
+       phases "AN";
+       constant_impedance_A 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node012;
+       phases "BN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node016;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node017;
+       phases "CN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node019;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node020;
+       phases "AN";
+       constant_current_A 9.615+4.808j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node022;
+       phases "BN";
+       constant_impedance_B 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node024;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node028;
+       phases "ABCN";
+       constant_current_A 9.615+4.808j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node029;
+       phases "ABCN";
+       constant_impedance_A 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node030;
+       phases "ABCN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node031;
+       phases "CN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node032;
+       phases "CN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node033;
+       phases "AN";
+       constant_current_A 9.615+4.808j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node034;
+       phases "CN";
+       constant_impedance_C 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node035;
+       phases "ABCD";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node037;
+       phases "AN";
+       constant_impedance_A 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node038;
+       phases "BN";
+       constant_current_B 4.808+2.404j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node039;
+       phases "BN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node041;
+       phases "CN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node042;
+       phases "ABCN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node043;
+       phases "BN";
+       constant_impedance_B 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node045;
+       phases "AN";
+       constant_current_A 4.808+2.404j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node046;
+       phases "AN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node047;
+       phases "ABCN";
+       constant_current_A 8.413+6.010j;
+       constant_current_B 8.413+6.010j;
+       constant_current_C 8.413+6.010j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node048;
+       phases "ABCN";
+       constant_impedance_A 247.233+346.112j;
+       constant_impedance_B 247.233+346.112j;
+       constant_impedance_C 247.233+346.112j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node049;
+       phases "ABCN";
+       constant_power_A 35000+25000j;
+       constant_power_B 70000+50000j;
+       constant_power_C 35000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node050;
+       phases "ABCN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node051;
+       phases "ABCN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node052;
+       phases "ABCN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node053;
+       phases "ABCN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node055;
+       phases "ABCN";
+       constant_impedance_A 865.280+1730.560j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node056;
+       phases "ABCN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node058;
+       phases "BN";
+       constant_current_B 4.808+2.404j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node059;
+       phases "BN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node060;
+       phases "ABCN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node062;
+       phases "ABCN";
+       constant_impedance_C 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node063;
+       phases "ABCN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node064;
+       phases "ABCN";
+       constant_current_B 18.029+8.413j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node065;
+       phases "ABCD";
+       constant_impedance_A 494.446+692.224j;
+       constant_impedance_B 494.446+692.224j;
+       constant_impedance_C 247.223+346.112j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node066;
+       phases "ABCN";
+       constant_power_C 75000+35000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node068;
+       phases "AN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node069;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node070;
+       phases "AN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node071;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node073;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node074;
+       phases "CN";
+       constant_impedance_C 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node075;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node076;
+       phases "ABCD";
+       constant_current_A 25.240+19.231j;
+       constant_current_B 16.327+12.019j;
+       constant_current_C 16.827+12.019j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node077;
+       phases "ABCN";
+       constant_power_B 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node079;
+       phases "ABCN";
+       constant_impedance_A 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node080;
+       phases "ABCN";
+       constant_power_B 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node082;
+       phases "ABCN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node083;
+       phases "ABCN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node084;
+       phases "CN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node085;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node086;
+       phases "ABCN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node087;
+       phases "ABCN";
+       constant_power_B 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node088;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node090;
+       phases "BN";
+       constant_current_B 9.615+4.808j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node092;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node094;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node095;
+       phases "ABCN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node096;
+       phases "BN";
+       constant_power_B 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node098;
+       phases "ABCN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node099;
+       phases "ABCN";
+       constant_power_B 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node100;
+       phases "ABCN";
+       constant_impedance_C 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node102;
+       phases "CN";
+       constant_power_C 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node103;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node104;
+       phases "CN";
+       constant_power_C 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node106;
+       phases "BN";
+       constant_power_B 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node107;
+       phases "BN";
+       constant_power_B 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node109;
+       phases "AN";
+       constant_power_A 40000+20000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node111;
+       phases "AN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node112;
+       phases "AN";
+       constant_current_A 4.808+2.404j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node113;
+       phases "AN";
+       constant_impedance_A 432.640+865.280j;
+       nominal_voltage 2401.8;
+}
+
+object load {
+       name node114;
+       phases "AN";
+       constant_power_A 20000+10000j;
+       nominal_voltage 2401.8;
+}

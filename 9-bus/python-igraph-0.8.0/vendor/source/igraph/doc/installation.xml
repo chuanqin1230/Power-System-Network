@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE refentry PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" 
+               "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY igraph "igraph">
+]>
+
+<chapter id="igraph-Installation">
+<title>Installation</title>
+
+<para>
+The easiest way to install the igraph C library
+depends on your system, and it might also change, 
+so we no longer include installation instructions here. 
+Please see the igraph homepage at <ulink
+url="http://igraph.org">http://igraph.org</ulink>
+instead.
+</para>
+
+</chapter>

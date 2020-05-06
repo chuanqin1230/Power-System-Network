@@ -1,0 +1,81 @@
+object regulator_configuration {
+       name regulator_configuration1;
+       connect_type WYE_WYE;
+       band_center 2401.8;
+       band_width 21.0;
+       raise_taps 16;
+       lower_taps 16;
+       regulation 0.10;
+       Control REMOTE_NODE;
+}
+	
+object regulator {
+       name Reg1;
+       phases "ABCN";
+       from node150;
+       to node149;
+       sense_node node013;
+       configuration regulator_configuration1;
+}
+
+object regulator_configuration {
+       name regulator_configuration2;
+       connect_type WYE_WYE;
+       band_center 2401.8;
+       band_width 21.0;
+       time_delay 30.0;
+       raise_taps 16;
+       lower_taps 16;
+       regulation 0.10;
+       Control REMOTE_NODE;
+}
+	
+object regulator {
+       name Reg2;
+       phases "AN";
+       from node009;
+       to node014;
+       sense_node node014;
+       configuration regulator_configuration2;
+}
+
+object regulator_configuration {
+       name regulator_configuration3;
+       connect_type WYE_WYE;
+       band_center 2420;
+       band_width 21.0;
+       time_delay 30.0;
+       raise_taps 16;
+       lower_taps 16;
+       regulation 0.10;
+       Control REMOTE_NODE;
+}
+	
+object regulator {
+       name Reg3;
+       phases "ACN";
+       from node025;
+       to node026;
+       sense_node node026;
+       configuration regulator_configuration3;
+}
+
+object regulator_configuration {
+       name regulator_configuration4;
+       connect_type WYE_WYE;
+       band_center 2401.8;
+       band_width 21.0;
+       raise_taps 16;
+       lower_taps 16;
+       regulation 0.10;
+       Control REMOTE_NODE;
+}	
+	
+object regulator {
+       name Reg4;
+       phases "ABCN";
+       from node160;
+       to node067;
+       sense_node node067;
+       configuration regulator_configuration4;
+}

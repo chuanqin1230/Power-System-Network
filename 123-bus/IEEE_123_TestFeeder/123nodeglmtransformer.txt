@@ -1,0 +1,27 @@
+object transformer_configuration {
+     name XFMRconfiguration1;
+     connect_type DELTA_GWYE;
+     power_rating 5000;	
+     primary_voltage 115000;
+     secondary_voltage 4160;
+     resistance 0.01;  
+     reactance 0.08;
+}
+
+object transformer_configuration {
+     name XFMRconfiguration2;
+     connect_type DELTA_DELTA;
+     power_rating 150;		
+     primary_voltage 4160;	
+     secondary_voltage 480;	
+     resistance 0.0127;  
+     reactance 0.0272;	
+}
+
+object transformer {
+       name XFMR1;
+       phases "ABC";
+       from node061;
+       to node610;
+       configuration XFMRconfiguration2;
+}

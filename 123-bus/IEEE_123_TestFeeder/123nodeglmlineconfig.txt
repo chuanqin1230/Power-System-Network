@@ -1,0 +1,106 @@
+object line_configuration {
+	name lineconfiguration1;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing1;
+}
+
+object line_configuration {
+	name lineconfiguration2;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing2;
+}
+
+object line_configuration {
+	name lineconfiguration3;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing3;
+}
+
+object line_configuration {
+	name lineconfiguration4;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing4;
+}
+
+object line_configuration {
+	name lineconfiguration5;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing5;
+}
+
+object line_configuration {
+	name lineconfiguration6;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing6;
+}
+
+object line_configuration {
+	name lineconfiguration7;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing7;
+}
+
+object line_configuration {
+	name lineconfiguration8;
+	conductor_A conductor1;
+	conductor_B conductor1;
+	conductor_C conductor1;
+	conductor_N conductor3;
+	spacing linespacing8;
+}
+
+object line_configuration {
+	name lineconfiguration9;
+	conductor_A conductor2;
+	conductor_B conductor2;
+	conductor_C conductor2;
+	conductor_N conductor4;
+	spacing linespacing9;
+}
+
+object line_configuration {
+	name lineconfiguration10;
+	conductor_A conductor2;
+	conductor_B conductor2;
+	conductor_C conductor2;
+	conductor_N conductor4;
+	spacing linespacing10;
+}
+
+object line_configuration {
+	name lineconfiguration11;
+	conductor_A conductor2;
+	conductor_B conductor2;
+	conductor_C conductor2;
+	conductor_N conductor4;
+	spacing linespacing11;
+}
+
+object line_configuration {
+	name lineconfiguration12;
+	conductor_A conductor5;
+	conductor_B conductor5;
+	conductor_C conductor5;
+	spacing linespacing12;
+}

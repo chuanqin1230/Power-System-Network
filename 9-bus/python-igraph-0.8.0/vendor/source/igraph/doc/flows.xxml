@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" 
+               "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY igraph "igraph">
+]>
+
+<chapter id="igraph-Flows">
+<title>Maximum Flows, Minimum Cuts and related measures</title>
+
+<section><title>Maximum Flows</title>
+<!-- doxrox-include igraph_maxflow -->
+<!-- doxrox-include igraph_maxflow_value -->
+<!-- doxrox-include igraph_dominator_tree -->
+<!-- doxrox-include igraph_maxflow_stats_t -->
+</section>
+
+<section><title>Cuts and minimum cuts</title>
+<!-- doxrox-include igraph_st_mincut -->
+<!-- doxrox-include igraph_st_mincut_value -->
+<!-- doxrox-include igraph_all_st_cuts -->
+<!-- doxrox-include igraph_all_st_mincuts -->
+<!-- doxrox-include igraph_mincut -->
+<!-- doxrox-include igraph_mincut_value -->
+<!-- doxrox-include igraph_gomory_hu_tree -->
+</section>
+
+<section><title>Connectivity</title>
+<!-- doxrox-include igraph_st_edge_connectivity -->
+<!-- doxrox-include igraph_edge_connectivity -->
+<!-- doxrox-include igraph_st_vertex_connectivity -->
+<!-- doxrox-include igraph_vertex_connectivity -->
+</section>
+
+<section><title>Edge- and Vertex-Disjoint Paths</title>
+<!-- doxrox-include igraph_edge_disjoint_paths -->
+<!-- doxrox-include igraph_vertex_disjoint_paths -->
+</section>
+
+<section><title>Graph Adhesion and Cohesion</title>
+<!-- doxrox-include igraph_adhesion -->
+<!-- doxrox-include igraph_cohesion -->
+</section>
+
+<section><title>Cohesive Blocks</title>
+<!-- doxrox-include igraph_cohesive_blocks -->
+</section>
+
+</chapter>

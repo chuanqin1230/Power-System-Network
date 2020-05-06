@@ -1,0 +1,240 @@
+object node {
+       name node003;
+       phases "CN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node008;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node013;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node014;
+       phases "AN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node015;
+       phases "CN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node018;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node021;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node023;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node025;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node026;
+       phases "ACN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node027;
+       phases "ACN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node036;
+       phases "ABN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node040;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node044;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node054;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node057;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node061;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node067;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node072;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node078;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node081;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node089;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node091;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node093;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node097;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node101;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node105;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node108;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node110;
+       phases "AN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node135;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node149;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node150;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+       bustype SWING;
+}
+
+object node {
+       name node151;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node152;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node160;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node197;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node250;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node300;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node450;
+       phases "ABCN";
+       nominal_voltage 2401.8;
+}
+
+object node {
+       name node610;
+       phases "ABCN";
+       nominal_voltage 277.1;
+}

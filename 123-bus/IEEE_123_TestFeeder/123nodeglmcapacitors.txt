@@ -1,0 +1,69 @@
+object capacitor {
+       name capnode83;
+       parent node083;          
+       phases ABCN;     
+       pt_phase ABCN;          
+       phases_connected ABCN;     
+       control VOLT;     
+       voltage_set_high 2521.9;     
+       voltage_set_low 2281.7;     
+       capacitor_A 0.20 MVAr;    
+       capacitor_B 0.20 MVAr;    
+       capacitor_C 0.20 MVAr;    
+       control_level INDIVIDUAL;   
+       switchA CLOSED;     
+       switchB CLOSED;     
+       switchC CLOSED;     
+       nominal_voltage 2401.8;     
+}    
+
+object capacitor {
+       name capnode88;
+       parent node088;
+       phases AN;
+       pt_phase AN;
+       phases_connected ABCN;
+       control VOLT;
+       voltage_set_high 2521.9;
+       voltage_set_low 2281.7;
+       capacitor_A 0.05 MVAr;
+       control_level INDIVIDUAL;
+       switchA CLOSED;
+       switchB CLOSED;
+       switchC CLOSED;
+       nominal_voltage 2401.8;
+}
+
+object capacitor {
+       name capnode90;
+       parent node090;
+       phases BN;
+       pt_phase BN;
+       phases_connected ABCN;
+       control VOLT;
+       voltage_set_high 2521.9;
+       voltage_set_low 2281.7;
+       capacitor_B 0.05 MVAr;
+       control_level INDIVIDUAL;
+       switchA CLOSED;
+       switchB CLOSED;
+       switchC CLOSED;
+       nominal_voltage 2401.8;
+}
+
+object capacitor {
+       name capnode92;
+       parent node092;
+       phases CN;
+       pt_phase CN;
+       phases_connected ABCN;
+       control VOLT;
+       voltage_set_high 2521.9;
+       voltage_set_low 2281.7;
+       capacitor_C 0.05 MVAr;
+       control_level INDIVIDUAL;
+       switchA CLOSED;
+       switchB CLOSED;
+       switchC CLOSED;
+       nominal_voltage 2401.8;
+}

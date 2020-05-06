@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN" 
+               "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" [
+<!ENTITY igraph "igraph">
+]>
+
+<section id="igraph-Matrices">
+<title>Matrices</title>
+
+<section>
+<!-- doxrox-include about_igraph_matrix_t_objects -->
+</section>
+
+<section>
+<!-- doxrox-include igraph_matrix_constructor_and_destructor -->
+<!-- doxrox-include igraph_matrix_init -->
+<!-- doxrox-include igraph_matrix_copy -->
+<!-- doxrox-include igraph_matrix_destroy -->
+</section>
+
+<section><title>Initializing elements</title>
+<!-- doxrox-include igraph_matrix_null -->
+<!-- doxrox-include igraph_matrix_fill -->
+</section>
+
+<section><title>Copying matrices</title>
+<!-- doxrox-include igraph_matrix_copy_to -->
+<!-- doxrox-include igraph_matrix_update -->
+<!-- doxrox-include igraph_matrix_swap -->
+</section>
+
+<section>
+<!-- doxrox-include igraph_matrix_accessing_elements -->
+<!-- doxrox-include MATRIX -->
+<!-- doxrox-include igraph_matrix_e -->
+<!-- doxrox-include igraph_matrix_e_ptr -->
+<!-- doxrox-include igraph_matrix_set --> 
+</section>
+
+<section><title>Operations on rows and columns</title>
+<!--doxrox-include igraph_matrix_get_row -->
+<!--doxrox-include igraph_matrix_get_col -->
+<!--doxrox-include igraph_matrix_set_row -->
+<!--doxrox-include igraph_matrix_set_col -->
+<!--doxrox-include igraph_matrix_swap_rows -->
+<!--doxrox-include igraph_matrix_swap_cols -->
+<!--doxrox-include igraph_matrix_select_rows -->
+<!--doxrox-include igraph_matrix_select_cols -->
+<!--doxrox-include igraph_matrix_select_rows_cols -->
+</section>
+
+<section>
+<title>Matrix operations</title>
+<!-- doxrox-include igraph_matrix_add_constant -->
+<!-- doxrox-include igraph_matrix_scale -->
+<!-- doxrox-include igraph_matrix_add -->
+<!-- doxrox-include igraph_matrix_sub -->
+<!-- doxrox-include igraph_matrix_mul_elements -->
+<!-- doxrox-include igraph_matrix_div_elements -->
+<!-- doxrox-include igraph_matrix_sum -->
+<!-- doxrox-include igraph_matrix_prod -->
+<!-- doxrox-include igraph_matrix_rowsum -->
+<!-- doxrox-include igraph_matrix_colsum -->
+<!-- doxrox-include igraph_matrix_transpose -->
+</section>
+
+<section><title>Matrix comparisons</title>
+<!-- doxrox-include igraph_matrix_all_e -->
+<!-- doxrox-include igraph_matrix_all_l -->
+<!-- doxrox-include igraph_matrix_all_g -->
+<!-- doxrox-include igraph_matrix_all_le -->
+<!-- doxrox-include igraph_matrix_all_ge -->
+</section>
+
+<section>
+<title>Combining matrices</title>
+<!-- doxrox-include igraph_matrix_rbind -->
+<!-- doxrox-include igraph_matrix_cbind -->
+</section>
+
+<section>
+<title>Finding minimum and maximum</title>
+<!-- doxrox-include igraph_matrix_min -->
+<!-- doxrox-include igraph_matrix_max -->
+<!-- doxrox-include igraph_matrix_which_min -->
+<!-- doxrox-include igraph_matrix_which_max -->
+<!-- doxrox-include igraph_matrix_minmax -->
+<!-- doxrox-include igraph_matrix_which_minmax -->
+</section>
+
+<section>
+<title>Matrix properties</title>
+<!-- doxrox-include igraph_matrix_empty -->
+<!-- doxrox-include igraph_matrix_isnull -->
+<!-- doxrox-include igraph_matrix_size -->
+<!-- doxrox-include igraph_matrix_capacity -->
+<!-- doxrox-include igraph_matrix_nrow -->
+<!-- doxrox-include igraph_matrix_ncol -->
+<!-- doxrox-include igraph_matrix_is_symmetric -->
+<!-- doxrox-include igraph_matrix_maxdifference -->
+</section>
+
+<section><title>Searching for elements</title>
+<!-- doxrox-include igraph_matrix_contains -->
+<!-- doxrox-include igraph_matrix_search -->
+</section>
+
+<section>
+<title>Resizing operations</title>
+<!-- doxrox-include igraph_matrix_resize -->
+<!-- doxrox-include igraph_matrix_resize_min -->
+<!-- doxrox-include igraph_matrix_add_rows -->
+<!-- doxrox-include igraph_matrix_add_cols -->
+<!-- doxrox-include igraph_matrix_remove_row -->
+<!-- doxrox-include igraph_matrix_remove_col -->
+</section>
+
+</section>
+
